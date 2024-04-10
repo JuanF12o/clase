@@ -1,0 +1,11 @@
+div{
+    background-color: rgb(92, 192, 25);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: rgb(0, 0, 3);
+}
+hr{
+    background-color: black;
+    width: 6rem;
+    height: 1vh;
+}
